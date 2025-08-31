@@ -8,13 +8,13 @@ Este é um conversor simples de moedas feito em Python, que permite converter va
 
 ### ⚙️ O programa oferece um menu interativo onde o usuário escolhe a conversão desejada, informa o valor, e recebe o resultado formatado.
 
-- 🐍 O programa é um **conversor simples de moedas** feito em Python, que roda no terminal.
-- 📜 Ele usa uma função chamada `mostrar_menu()` para mostrar as opções de conversão para o usuário.
-- 🔢 Outra função chamada `converter(valor, taxa)` faz a conta da conversão, multiplicando o valor pelo câmbio (taxa).
-- 🔄 O programa usa um **loop infinito** (`while True`) para continuar rodando até o usuário escolher sair.
-- 🎯 O usuário escolhe a operação (por exemplo, Real para Dólar) digitando um número.
-- 💵 Depois, o programa pede para o usuário digitar o valor a ser convertido.
-- 🔍 Dependendo da escolha, ele chama a função `converter()` com o valor e a taxa de câmbio correspondente:
+-  O programa é um **conversor simples de moedas** feito em Python, que roda no terminal.🐍
+-  Ele usa uma função chamada `mostrar_menu()` para mostrar as opções de conversão para o usuário.
+-  Outra função chamada `converter(valor, taxa)` faz a conta da conversão, multiplicando o valor pelo câmbio (taxa).
+   O programa usa um **loop infinito** (`while True`) para continuar rodando até o usuário escolher sair.
+-  O usuário escolhe a operação (por exemplo, Real para Dólar) digitando um número.
+-  Depois, o programa pede para o usuário digitar o valor a ser convertido.
+-  Dependendo da escolha, ele chama a função `converter()` com o valor e a taxa de câmbio correspondente:
   
   - 🇧🇷 Real para Dólar usa taxa **0.19** (ou seja, 1 Real = 0.19 Dólar)
   - 🇧🇷 Real para Euro usa taxa **0.16**
