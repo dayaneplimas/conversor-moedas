@@ -63,4 +63,18 @@ python conversor.py
 7. ❌ Para sair, digite 0.
 
 ---
+🛠️ Tecnologias Utilizadas:
 
+- Python 3.12 (linguagem de programação);
+- Visual Studio Code (VS Code) (editor de código);
+- Terminal do Windows / CMD (execução do programa);
+- Sistema Operacional: Windows 10.
+
+💡 O que Foi Aprendido
+
+- **Lógica de Programação**: uso de variáveis, funções, laços e estruturas de decisão
+- **Entrada e Saída de Dados**: com `input()` e `print()`
+- **Funções**: criação e reutilização com parâmetros
+- **Laço de Repetição**: controle de fluxo com `while True`
+- **Tratamento de Opções Inválidas**: validação básica da entrada do usuário
+- **Formatação de Números**: exibição de resultados com duas casas decimais (`{:.2f}`)
